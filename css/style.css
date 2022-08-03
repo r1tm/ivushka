@@ -17,6 +17,9 @@ h1 {
 a {
 	text-decoration: none;
 }
+a img {
+    border: none; 
+   }
 body {
 	margin: 0;
 }

@@ -69,14 +69,14 @@ body {
 }
 .icon-adress {
 	position: absolute;
-	background: url(/img/location.svg) no-repeat;
+	background: url(../img/location.svg) no-repeat;
 	width: 25px;
 	height: 25px;
 	float: left;
 }
 .icon-tell {
 	position: absolute;
-	background: url(/img/tel.svg) no-repeat;
+	background: url(../img/tel.svg) no-repeat;
 	width: 25px;
 	height: 25px;
 	float: left;
@@ -95,7 +95,7 @@ body {
 }
 .icon-visually {
 	position: absolute;
-	background: url(/img/glasess.svg) no-repeat;
+	background: url(../img/glasess.svg) no-repeat;
 	height: 15px;
 	float: left;
 	margin-top: 10px;
@@ -119,7 +119,7 @@ body {
 	min-width: 1340px;
 }
 .promo-content {
-	background: url(/img/pic-fon-bottom-2-min.png) left bottom no-repeat, url(/img/fon-page-min.png);
+	background: url(../img/pic-fon-bottom-2-min.png) left bottom no-repeat, url(../img/fon-page-min.png);
 	background-color: #6EC1E4;
 	background-size: contain;
 	min-width: 1400px;

@@ -189,7 +189,10 @@ body {
     height: 500px; */
     background-size: contain;
     /* margin-left: 120px; */
-}
+	width: 95%;
+	padding: 20px;
+  }
+
 .content p {
 	text-align: center;
 	font-family: 'Source Sans Pro', sans-serif;

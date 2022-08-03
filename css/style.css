@@ -26,7 +26,7 @@ body {
 }
 .main-header {
 	height: 595px;
-	background: url(https://github.com/r1tm/ivushka/blob/main/img/header.jpg) no-repeat top center;
+	background: url(../img/header.jpg) no-repeat top center;
 	min-width: 1400px;
 }
 .logo {
@@ -39,7 +39,7 @@ body {
 }
 .logo-img {
 	position: absolute;
-	background: url(/img/logo-svg-min.svg) no-repeat;
+	background: url(../img/logo-svg-min.svg) no-repeat;
 	width: 70px;
 	height: 69px;
 	float: left;

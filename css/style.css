@@ -183,14 +183,12 @@ body {
 }
 .content img {
 	padding: 20px;
-	padding: 20px;
     background: url(../img/1503e2676e54796228b98f3ba6d8c33b.jpg) no-repeat;
     background-size: auto;
     width: 500px;
     height: 500px;
     background-size: contain;
-
-margin-left: 48px;
+    margin-left: 90px;
 }
 .content p {
 	text-align: center;

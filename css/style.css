@@ -183,7 +183,7 @@ body {
 	min-height: 400px;
 }
 .content img {
-    background: url(../img/1503e2676e54796228b98f3ba6d8c33b.jpg) no-repeat;
+    /* background: url(../img/1503e2676e54796228b98f3ba6d8c33b.jpg) no-repeat; */
     background-size: auto;
     width: 500px;
     height: 500px;
